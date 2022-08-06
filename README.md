@@ -18,3 +18,8 @@ A request is sent to the API and you get your information.
 ![Screenshot 2022-08-06 204546](https://user-images.githubusercontent.com/62857161/183260150-dfc05447-782a-42a2-8183-219286f1fa93.png)
 
 You can also register your player so you can go back to it while searching for other players.
+
+-----
+
+Here you can download the actual executable JAR file:
+[Legend-Show Download](https://github.com/RonBY14/Legend-Show/blob/main/LegendShow.jar?raw=true)
