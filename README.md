@@ -1,7 +1,7 @@
 # Legend-Show
 A tool whose purpose is to display information in organized-fashion about almost every player in Apex Legends.
 
-I built this project in the time I was messing around and learning to work with API's. So it is not finished at all and lacks functionality (Not very interesting) but you can have fun looking and using it.
+I built this project in the time I was messing around and learning to work with API's. So it is not finished at all and lacks functionality (Not very interesting) but you can have fun looking and using it. And also, It's been a long time since I finished with this project (like 2yrs ago) and was considering whether to upload it at all.
 
 # How To Use
 
