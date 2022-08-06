@@ -23,3 +23,5 @@ You can also register your player so you can go back to it while searching for o
 
 Here you can download the actual executable JAR file:
 [Legend-Show Download](https://github.com/RonBY14/Legend-Show/blob/main/LegendShow.jar?raw=true)
+
+**IMPORTANT!** You must have Java 14^ and up.
